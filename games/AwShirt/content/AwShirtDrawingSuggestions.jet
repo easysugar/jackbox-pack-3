@@ -1,0 +1,1930 @@
+{
+  "episodeid": 1262,
+  "content": [
+    {
+      "suggestion": "Ваше перше кохання",
+      "id": 40958,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Те, що викликає у вас панічну атаку",
+      "id": 40523,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Сніжний день",
+      "id": 40522,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Легенда рок-музики",
+      "id": 40521,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш батько на вихідних",
+      "id": 40520,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Панк в багні",
+      "id": 40519,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваша перша робота",
+      "id": 40517,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Щось дуже миле",
+      "id": 40516,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Щось хаотичне ",
+      "id": 40514,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваша дитяча кімната",
+      "id": 40512,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Найкращий подарунок, який ви отримували",
+      "id": 40511,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Українські політики",
+      "id": 40510,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ви у звичайний вечір п'ятниці",
+      "id": 40509,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Поганий пес!",
+      "id": 40508,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваше улюблене реаліті-шоу",
+      "id": 40507,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Людина, з якою ви зустрінетесь на небесах",
+      "id": 40506,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Кіногерой, якого ви ненавидите",
+      "id": 40505,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Подія на Олімпійських іграх",
+      "id": 40504,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже мирне місце",
+      "id": 40503,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Відмінне місце для наметів",
+      "id": 40502,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Обкладинка вашого улюбленого альбому",
+      "id": 40501,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Персонаж відеогри, якого ви любите",
+      "id": 40500,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Прокачена математична формула",
+      "id": 40499,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Знакове зображення часів Другої світової війни",
+      "id": 40498,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Налиті кров'ю очі",
+      "id": 41156,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "дресирувальник дельфінів",
+      "id": 41159,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "батько з передмістя",
+      "id": 41160,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "закритий в підземеллі",
+      "id": 41162,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "воші на голові",
+      "id": 41163,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Тарзан",
+      "id": 41165,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "клас йоги",
+      "id": 41167,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "злий кіт",
+      "id": 41169,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "запитує дорогу",
+      "id": 41170,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "мавпа в перуці",
+      "id": 41171,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "свиня в сукні",
+      "id": 41172,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ковбой, що співає",
+      "id": 41175,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "вечірка в смокінгах",
+      "id": 41178,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "танцюючий скелет",
+      "id": 41179,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "удар головою в футболі",
+      "id": 41181,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "напад акули",
+      "id": 41182,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "еволюція людини",
+      "id": 41183,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "їзда на слоні",
+      "id": 41184,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "дощ ллє, як із відра",
+      "id": 41185,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "танці на льоду",
+      "id": 41186,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "мажор у кабріолеті",
+      "id": 41188,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "робот-Порошенко",
+      "id": 41191,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Перун",
+      "id": 41198,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "кровожерливий пінгвін",
+      "id": 41199,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "щасливий динозавр",
+      "id": 41200,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "боксер у нокауті",
+      "id": 41201,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ніжитися на сонечку",
+      "id": 41203,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "весільний танець",
+      "id": 41204,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "атака на воротаря",
+      "id": 41206,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "підлий вікінг",
+      "id": 41207,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "шолом віртуальної реальності",
+      "id": 41202,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "золотоволоска та три ведмеді",
+      "id": 41177,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "танцювальний конкурс",
+      "id": 41168,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "статуя Батьківщини-матері",
+      "id": 41176,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Мистецтво печерних людей",
+      "id": 40497,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Борода часів УНР",
+      "id": 40496,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Чувак з 90-х",
+      "id": 40495,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ідеальний гамбургер",
+      "id": 40494,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Морж з людськими зубами",
+      "id": 40493,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Їжа, від якої вас нудить",
+      "id": 40492,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Поганий ніндзя",
+      "id": 40491,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Поляк",
+      "id": 40490,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Знаменитий корабель",
+      "id": 40489,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Шикарний захід сонця",
+      "id": 40488,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Постапокаліптична Земля",
+      "id": 40473,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваше щасливе місце",
+      "id": 40472,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ексцентричний мільярдер",
+      "id": 40471,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Професійний рестлер",
+      "id": 40470,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Щось смердюче",
+      "id": 40468,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Людина з величезною головою",
+      "id": 40467,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Людина з крихітними руками",
+      "id": 40466,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хлопець уважно дивиться у вічі",
+      "id": 40465,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Великий тупий качок",
+      "id": 40464,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Схвильована мама",
+      "id": 40463,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Криза середнього віку",
+      "id": 40462,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Обкладинка жахливого любовного роману",
+      "id": 40461,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Тупа на вигляд риба",
+      "id": 40460,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Працівник фастфуду",
+      "id": 40459,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Антропоморфна ложка",
+      "id": 40458,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Погано зроблена маріонетка",
+      "id": 40457,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Обкладинка вашої улюбленої книги",
+      "id": 40456,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Персонаж з науково-фантастичного фільму",
+      "id": 40455,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Повний зануда",
+      "id": 40454,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Нечесний бій",
+      "id": 40452,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Фанати біткоїна",
+      "id": 40451,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Романтичний краєвид",
+      "id": 40449,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Незграбний підліток",
+      "id": 40448,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Екстремальний спорт",
+      "id": 40446,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваше хобі",
+      "id": 40445,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш улюблений музикант",
+      "id": 40444,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Плакат, що висів у вас на стіні",
+      "id": 40443,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дещо зухвале",
+      "id": 40442,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Загадковий чоловік",
+      "id": 40441,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Милий монстр",
+      "id": 40440,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Викрадення прибульцями",
+      "id": 40438,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Пошук НЛО",
+      "id": 40437,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Пуголовки",
+      "id": 40436,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Спелеотуризм",
+      "id": 40432,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Селюки",
+      "id": 40431,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хіпі",
+      "id": 40430,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Банда байкерів",
+      "id": 40429,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Літній табір",
+      "id": 40427,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Супер шпигун",
+      "id": 40426,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Блискучі вогні",
+      "id": 40425,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Напади голоду",
+      "id": 40424,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Сумний вампір",
+      "id": 40423,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Екзорцизм",
+      "id": 40422,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Афіни, Київ і Стамбул",
+      "id": 40421,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Сезон полювання",
+      "id": 40419,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Звичайна п'ятниця",
+      "id": 40418,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Одягання",
+      "id": 40417,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Неймовірна битва",
+      "id": 40416,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Планування помсти",
+      "id": 40415,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Єднання з природою",
+      "id": 40414,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Старша школа",
+      "id": 40413,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Панк-рок",
+      "id": 40412,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Львів",
+      "id": 40411,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Бідні верстви",
+      "id": 40401,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Нудьга на роботі",
+      "id": 40400,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Свобода",
+      "id": 40399,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Чудовий відпочинок на природі",
+      "id": 40398,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Весілля",
+      "id": 40395,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Моторошні діти",
+      "id": 40393,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Заморожування мозку",
+      "id": 40392,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Пограбування банку",
+      "id": 40391,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Старий домашній улюбленець",
+      "id": 40390,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Подорож у часі",
+      "id": 40389,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Фейкова особа",
+      "id": 40388,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Держслужбовець",
+      "id": 40387,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось із космосу",
+      "id": 40386,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Те, що змушує вас плакати",
+      "id": 40384,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Сон, який вам часто сниться",
+      "id": 40383,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Щось жорстоке",
+      "id": 40382,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш найменш улюблений вчитель",
+      "id": 40380,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Розгніваний суддя",
+      "id": 40379,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Життя у в'язниці",
+      "id": 40378,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Авто вашої мрії",
+      "id": 40377,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Житомирець",
+      "id": 40375,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Знімок голови знаменитості",
+      "id": 40374,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось дуже мелодраматичний",
+      "id": 40373,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Якийсь мачо",
+      "id": 40371,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Розгублений інопланетянин",
+      "id": 40370,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Страшна вечірка",
+      "id": 40369,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Динозавр-хіпстер",
+      "id": 40368,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Майбутнє",
+      "id": 40365,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваша улюблена порода собак",
+      "id": 40363,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Людина, яку ви ймовірно побачите в цирку",
+      "id": 40307,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось із поганим ставленням до всіх",
+      "id": 40306,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Людина з дуже важкою роботою",
+      "id": 40304,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Як провести літні канікули",
+      "id": 40303,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже липка людина",
+      "id": 40302,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Як виглядатимуть люди в майбутньому",
+      "id": 40301,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже везуча людина",
+      "id": 40300,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "У когось поганий день",
+      "id": 40299,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Щось гарне з природи",
+      "id": 40298,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Визначна пам'ятка, яку ви дійсно хочете побачити",
+      "id": 40296,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Погана нянька",
+      "id": 40294,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Персонаж фільму жахів",
+      "id": 40293,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Персонаж коміксів",
+      "id": 40292,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Людина з поганим почуттям моди",
+      "id": 40291,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Той, хто може чекати на чайові",
+      "id": 40290,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось, хто готовий до бою",
+      "id": 40289,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже патріотична людина",
+      "id": 40287,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Знаменитість у дитинстві",
+      "id": 40286,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Те, що ви можете побачити у поході",
+      "id": 40284,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Перше, що ви можете побачити зранку",
+      "id": 40283,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Те, що точно не повинно по вас повзати",
+      "id": 40281,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Наймиліше дитинча тварини",
+      "id": 40280,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Як ви сподіваєтеся виглядати у старості",
+      "id": 40279,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось з Тернополя",
+      "id": 40278,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось із купою грошей",
+      "id": 40277,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Люди, які люблять спорт",
+      "id": 40276,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Найсерйозніша людина",
+      "id": 40275,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Доісторичне життя",
+      "id": 40273,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Найкрутіший автомобіль",
+      "id": 40272,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш улюблений монстр",
+      "id": 40270,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Тварина з Африки",
+      "id": 40269,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Гелловінський костюм, який ви носили",
+      "id": 40267,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ким ви хотіли стати у дитинстві",
+      "id": 40266,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Людина, яку ви терпіти не можете",
+      "id": 40265,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Сімейне фото",
+      "id": 40263,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Відомий витвір мистецтва",
+      "id": 40262,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Сцена з Біблії",
+      "id": 40260,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Зла тварина",
+      "id": 40259,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш улюблений персонаж наукової фантастики",
+      "id": 40258,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш найменш улюблений музикант",
+      "id": 40257,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Блискуча суперзірка",
+      "id": 40256,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дійсно хвора людина",
+      "id": 40255,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось з 1800-х років",
+      "id": 40254,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Серійний вбивця",
+      "id": 40253,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш улюблений герой мультфільму",
+      "id": 40252,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Жахлива домашня тварина",
+      "id": 40251,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось, хто дуже спішить",
+      "id": 40250,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Зухвала океанська тварина",
+      "id": 40248,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Той, кому не варто довіряти",
+      "id": 40247,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже смердюча робота",
+      "id": 40246,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже мудра тварина",
+      "id": 40245,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось із великою частиною тіла",
+      "id": 40244,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Тварини намагаються бути крутими",
+      "id": 40243,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Найгірша людина в ролі сусіда в літаку",
+      "id": 40242,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Романтична комедія",
+      "id": 40241,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Сцена з вестерну про спагеті",
+      "id": 40240,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось з Одеси",
+      "id": 40239,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось, хто любить їжу",
+      "id": 40238,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже допитлива людина",
+      "id": 40237,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже вміла людина",
+      "id": 40236,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Театральна постановка",
+      "id": 40235,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Лють на дорозі",
+      "id": 40233,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже гаряча людина",
+      "id": 40232,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже тупа людина",
+      "id": 40231,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже розумна людина",
+      "id": 40230,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Людина з 1930-х років",
+      "id": 40229,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Француз",
+      "id": 40228,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Грецький бог",
+      "id": 40227,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Якісь науковці",
+      "id": 40226,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже крутий мужик",
+      "id": 40225,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дитяче телешоу",
+      "id": 40224,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Весілля тварин",
+      "id": 40223,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Людина проти природи",
+      "id": 40222,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Як би ви привабили потенційного партнера",
+      "id": 40221,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Кінець світу",
+      "id": 40220,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже страшне обличчя",
+      "id": 40219,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "середньовіччя",
+      "id": 41056,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "давньогрецька вечірка",
+      "id": 41063,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "конкурс з поїдання вареничків",
+      "id": 41065,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "щось різдвяне",
+      "id": 41005,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "щасливий кур'єр",
+      "id": 41069,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "шикарна вечірка",
+      "id": 41006,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Українські комедії 90-х",
+      "id": 41010,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "гопак",
+      "id": 41075,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "панікуючий астронавт",
+      "id": 41076,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "укравтодор",
+      "id": 41013,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "моторошний сніговик",
+      "id": 41077,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "робот-покоївка",
+      "id": 41078,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Вчителі старшої школи",
+      "id": 41015,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ботан",
+      "id": 41079,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "модне волосся у 80-х",
+      "id": 41048,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Зла дитина",
+      "id": 41050,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "хтось із пластичною операцією",
+      "id": 41052,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "злий моб",
+      "id": 41053,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "дикий-дикий захід",
+      "id": 41055,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Когось звільнили",
+      "id": 40218,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш вираз обличчя, якби ви зустріли Христину Соловій",
+      "id": 40217,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Життя на іншій планеті",
+      "id": 40216,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Квітка з обличчям знаменитості",
+      "id": 40215,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Знаменита людина робить щось круте",
+      "id": 40214,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваші звичайні повсякденні справи",
+      "id": 40213,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш найбільший герой",
+      "id": 40212,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже солодке частування",
+      "id": 40211,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваша улюблена їжа",
+      "id": 40210,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваша улюблена мітологічна істота",
+      "id": 40202,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось із Європи",
+      "id": 40200,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Паршиве місце для життя",
+      "id": 40197,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Як багата людина витрачає свої гроші",
+      "id": 40196,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дещо позаземне",
+      "id": 40195,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Вимерла тварина",
+      "id": 40194,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже холодне місце",
+      "id": 40190,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Дуже гаряче місце",
+      "id": 40189,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Як ви полюбляєте розслабитися",
+      "id": 40188,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Робота, яку б ви хотіли мати",
+      "id": 40187,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Історична постать останніх 100 років",
+      "id": 40186,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш улюблений спортсмен",
+      "id": 40184,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Кримінальний злочин",
+      "id": 40183,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ідеальне місце для відпочинку",
+      "id": 40182,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Сцена з бойовика",
+      "id": 40180,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Чудовий домашній улюбленець",
+      "id": 40179,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Життя під водою",
+      "id": 40178,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "сердита балерина",
+      "id": 41233,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "грубий офіціант",
+      "id": 41232,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Сумна дата",
+      "id": 41231,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось у кімнаті",
+      "id": 41230,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Кошмар, який у вас був",
+      "id": 41229,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ваш найменш улюблений родич",
+      "id": 41228,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Щось вульгарне",
+      "id": 41227,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Гра дитинства",
+      "id": 41226,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Геркулес",
+      "id": 41246,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "значне спортивне досягнення",
+      "id": 41294,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "минуле десятиліття, яке ви б хотіли відвідати",
+      "id": 41416,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "повстання тварин",
+      "id": 41424,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "сцена зі старого фільму",
+      "id": 41427,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "найгірше дитятко",
+      "id": 41428,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "літні розваги",
+      "id": 41552,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "темні віки",
+      "id": 41573,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "штучний інтелект",
+      "id": 41596,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "неймовірна суперсила",
+      "id": 41595,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Життя ботана",
+      "id": 41594,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "війна з мікробами",
+      "id": 41590,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Холодні ноги",
+      "id": 41587,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ліниві дні",
+      "id": 41585,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "мистецтво і ремесла",
+      "id": 41581,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "речі з olx",
+      "id": 41580,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "90-ті",
+      "id": 41575,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "міське життя",
+      "id": 41574,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Гарна гігієна ротової порожнини",
+      "id": 41571,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "соло на гітарі",
+      "id": 41568,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хороша вечірка на честь шістнадцятиріччя",
+      "id": 41569,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "уявний друг",
+      "id": 41564,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "лютий вигляд",
+      "id": 41562,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "небезпечна професія",
+      "id": 41560,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "няня-чаклунка",
+      "id": 41559,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "чарівний ліс",
+      "id": 41558,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "підлітковий страх",
+      "id": 41556,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "харчовий ланцюг",
+      "id": 41550,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "володіння мечем",
+      "id": 41549,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ласун",
+      "id": 41548,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "переробка",
+      "id": 41547,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "будинок на стрільбищі",
+      "id": 41468,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "відтворення громадянської війни",
+      "id": 41467,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "таємний сад",
+      "id": 41460,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "чудовий танцюрист",
+      "id": 41459,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "фуршет",
+      "id": 41457,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "король нічого",
+      "id": 41456,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "пранкери",
+      "id": 41455,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "зв'язок між батьком та сином",
+      "id": 41452,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "дивний парад",
+      "id": 41450,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "дивна доставка їжі",
+      "id": 41449,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "плакат, який висить у кімнаті гуртожитку",
+      "id": 41448,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "центр Землі",
+      "id": 41446,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "зіпсований день народження",
+      "id": 41443,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "романтика майбутнього",
+      "id": 41442,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "роботи-малюки",
+      "id": 41441,
+      "type": "Slogan Suggestion"
+    },
+    {
+      "suggestion": "дуже незручний момент",
+      "id": 41439,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "жахливий фокусник",
+      "id": 41438,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "герой казки",
+      "id": 41437,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "велетні весело проводять час",
+      "id": 41436,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "космічний табір",
+      "id": 41435,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "продаж своєї душі",
+      "id": 41434,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ваша улюблена вигадана місцина",
+      "id": 41433,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "дуже хитра людина",
+      "id": 41432,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "справжній невдаха",
+      "id": 41431,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ваше улюблене хобі",
+      "id": 41430,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "сімейна відпустка",
+      "id": 41419,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "душа вечірки",
+      "id": 41418,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "людина, що робить погані, жахливі речі",
+      "id": 41414,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "брудна, брудна робота",
+      "id": 41412,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "дуже британська людина",
+      "id": 41411,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "хтось їсть щось дуже велике",
+      "id": 41410,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "два види спорту в одному",
+      "id": 41409,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ваша улюблена зимова тварина",
+      "id": 41408,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "розваги на пляжі",
+      "id": 41407,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "хтось з перепадами настрою",
+      "id": 41406,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "дерево, яке вирощує те, що не повинно",
+      "id": 41405,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "тварина-детектив",
+      "id": 41404,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "диво",
+      "id": 41308,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "проклята лялька",
+      "id": 41307,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "абстрактне мистецтво",
+      "id": 41306,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "чемпіон з боулінгу",
+      "id": 41304,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "приголомшливий каскадер",
+      "id": 41299,
+      "type": "Slogan Suggestion"
+    },
+    {
+      "suggestion": "за ґратами",
+      "id": 41295,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "повернення з мертвих",
+      "id": 41293,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Волосся на обличчі",
+      "id": 41292,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ваше улюблене реаліті-шоу",
+      "id": 41291,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "циркова тварина",
+      "id": 41288,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "герой вашого дитинства",
+      "id": 41287,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "гравець у покер",
+      "id": 41286,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "морський капітан",
+      "id": 41285,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "злочинна діяльність",
+      "id": 41283,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "одяг не по фігурі",
+      "id": 41282,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "день спа",
+      "id": 41281,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Флот",
+      "id": 41280,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "загублений у пустелі",
+      "id": 41279,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "ваша улюблена страва",
+      "id": 41275,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "хтось із майбутнього",
+      "id": 41272,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "епічна битва",
+      "id": 41271,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "моторошний дім",
+      "id": 41270,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "хірург",
+      "id": 41268,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "модель на подіумі",
+      "id": 41267,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "гурт з однієї людини",
+      "id": 41266,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "самурай",
+      "id": 41265,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "витягання кроля з капелюха",
+      "id": 41264,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "обійманці",
+      "id": 41262,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "поїздка на чарівному єдинорозі",
+      "id": 41259,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "коала",
+      "id": 41255,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "канатоходець",
+      "id": 41251,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "родео-клоун",
+      "id": 41245,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "запуск торпеди",
+      "id": 41244,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "конкурс Кенгуру",
+      "id": 41243,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Хтось на механічному бику",
+      "id": 41241,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "проффесор з двома ф",
+      "id": 41239,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "падаюча зоря",
+      "id": 41240,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Романтична особа",
+      "id": 40175,
+      "type": "Drawing Suggestion"
+    }
+  ]
+}
