@@ -1,0 +1,26 @@
+{
+    "rows": 2,
+    "cols": 1,
+    "cellWidth": 232,
+    "cellHeight": 70,
+    "clip": "TJPP3PickerSettingsWidget",
+    "items": [
+        {
+            "title": "SETTINGS_VOLUME",
+            "type": "Range",
+            "clip": "TJPP3PickerSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 1,
+            "description": "SETTINGS_VOLUME_DESCRIPTION"
+        },
+        {
+            "title": "SETTINGS_FULL_SCREEN",
+            "type": "Toggle",
+            "clip": "TJPP3PickerToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "SETTINGS_FULL_SCREEN_DESCRIPTION"
+        }
+    ]
+}

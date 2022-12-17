@@ -20,7 +20,7 @@
       "clip": "AwShirtToggleWidget",
       "width": 1,
       "source": "FullScreen",
-      "description": "Make the game take up the full...screen."
+      "description": "Переводить гру у повний... екран."
     },
     {
       "title": "Швидке навчання",
@@ -68,7 +68,7 @@
       "clip": "AwShirtToggleWidget",
       "width": 1,
       "source": "AwShirtCensorable",
-      "description": "Allows the VIP (first player in) to censor players' answers."
+      "description": "Дозволити VIP гравцеві (першому гравцеві) цензурувати відповіді гравців."
     },
     {
       "title": "Починати гру лише з пристрою",
