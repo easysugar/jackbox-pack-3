@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "sex|intercourse",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "I guess I kind of pitched you a softball there, didn’t I?",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Смішний розіграш: помінятися місцями зі своїм клоном під час <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "542868_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "542866_0",
+      "n": "PromptAudio",
+      "s": "Смішний розіграш: помінятися місцями зі своїм клоном під час <BLANK>"
+    }
+  ]
+}

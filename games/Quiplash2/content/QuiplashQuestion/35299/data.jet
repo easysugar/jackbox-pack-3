@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "your death|your own death|you dying|how you’re going to die",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "This crayon drawing of my death would be useful if I could just figure out what was killing me. Is that a knife? A weird banana? Learn to draw, kid!",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "У вашої дитини дивна фантазія, якщо вона принесла вам малюнок <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "477240_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "477238_0",
+      "n": "PromptAudio",
+      "s": "У вашої дитини дивна фантазія, якщо вона принесла вам малюнок <BLANK>"
+    }
+  ]
+}

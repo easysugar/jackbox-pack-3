@@ -1,0 +1,137 @@
+{
+  "content": [
+    {
+      "id": 0,
+      "type": "ComicLash",
+      "label": "Comic01",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 1,
+      "type": "ComicLash",
+      "label": "Comic02",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 2,
+      "type": "ComicLash",
+      "label": "Comic03",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 3,
+      "type": "ComicLash",
+      "label": "Comic04",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 4,
+      "type": "ComicLash",
+      "label": "Comic05",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 5,
+      "type": "ComicLash",
+      "label": "Comic06",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 6,
+      "type": "ComicLash",
+      "label": "Comic07",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 7,
+      "type": "ComicLash",
+      "label": "Comic08",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 8,
+      "type": "ComicLash",
+      "label": "Comic09",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 9,
+      "type": "ComicLash",
+      "label": "Comic10",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 10,
+      "type": "ComicLash",
+      "label": "Comic11",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 11,
+      "type": "ComicLash",
+      "label": "Comic12",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 12,
+      "type": "ComicLash",
+      "label": "Comic13",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 13,
+      "type": "ComicLash",
+      "label": "Comic14",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 14,
+      "type": "ComicLash",
+      "label": "Comic15",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 15,
+      "type": "ComicLash",
+      "label": "Comic16",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 16,
+      "type": "ComicLash",
+      "label": "Comic17",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 17,
+      "type": "ComicLash",
+      "label": "Comic18",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 18,
+      "type": "ComicLash",
+      "label": "Comic19",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 19,
+      "type": "ComicLash",
+      "label": "Comic20",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 20,
+      "type": "ComicLash",
+      "label": "Comic21",
+      "prompt": "Доповніть комікс!"
+    },
+    {
+      "id": 21,
+      "type": "ComicLash",
+      "label": "Comic22",
+      "prompt": "Доповніть комікс!"
+    }
+  ],
+  "episodeid": 1
+}

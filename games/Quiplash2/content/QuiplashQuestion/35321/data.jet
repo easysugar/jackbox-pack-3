@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Що скаже підліток, щоб образити свого вітчима-єті",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "477349_0",
+      "n": "PromptAudio",
+      "s": "Що скаже підліток, щоб образити свого вітчима-єті"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Наліпка на бампері, яку мав би нудист",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "464226_0f",
+      "n": "PromptAudio",
+      "s": "Наліпка на бампері, яку мав би нудист"
+    }
+  ]
+}

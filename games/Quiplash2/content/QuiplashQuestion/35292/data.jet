@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Якщо Київ - мати міст руських, то Львів —<BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "477203_0",
+      "n": "PromptAudio",
+      "s": "Якщо Київ - мати міст руських, то Львів —<BLANK>"
+    }
+  ]
+}

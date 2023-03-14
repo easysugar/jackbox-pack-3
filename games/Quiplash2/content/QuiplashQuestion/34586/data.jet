@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Це було б неймовірно, якби була змога вирощувати <BLANK> у саду",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "473283_0",
+      "n": "PromptAudio",
+      "s": "Це було б неймовірно, якби була змога вирощувати <BLANK> у саду"
+    }
+  ]
+}

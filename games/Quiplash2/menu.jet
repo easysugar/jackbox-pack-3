@@ -1,0 +1,32 @@
+[
+  {
+    "title": "ГРАТИ",
+    "action": "doPlayGame",
+    "description": "Створити ігрову кімнату та зіграти",
+    "value": 0
+  },
+  {
+    "title": "ЗРОБИ СВОЄ",
+    "action": "doUGC",
+    "description": "Створюйте власні завдання",
+    "value": 1
+  },
+  {
+    "title": "ТАБЛИЦЯ ЛІДЕРІВ",
+    "action": "doLeaderboards",
+    "description": "Відстежуйте статистику ваших останніх ігор",
+    "value": 2
+  },
+  {
+    "title": "НАЛАШТУВАННЯ",
+    "action": "doSettings",
+    "description": "Сімейний фільтр, налаштування для глядачів тощо",
+    "value": 3
+  },
+  {
+    "title": "НАЗАД ДО ПАКУ",
+    "action": "doBackToPack",
+    "description": "Вийти назад до меню Party Pack",
+    "value": 4
+  }
+]

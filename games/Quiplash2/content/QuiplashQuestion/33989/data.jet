@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Дивна порада від дідуся: Ніколи не бери жодних дерев'яних <BLANK>\"",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "469670_0",
+      "n": "PromptAudio",
+      "s": "Дивна порада від дідуся: Ніколи не бери жодних дерев'яних <BLANK>\""
+    }
+  ]
+}

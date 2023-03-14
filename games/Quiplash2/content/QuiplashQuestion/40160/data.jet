@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "time machine|a time machine|a TARDIS|a T.A.R.D.I.S.|a delorean|the delorean",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "If time travel where real, my future self would have come back to stop me from hosting this game for the second time.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Дивні зображення, які можна знайти серед наскельних малюнків",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "542813_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "542811_0",
+      "n": "PromptAudio",
+      "s": "Дивні зображення, які можна знайти серед наскельних малюнків"
+    }
+  ]
+}

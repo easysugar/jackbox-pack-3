@@ -1,0 +1,240 @@
+{
+  "content": [
+    {
+      "id": 0,
+      "type": "WordLashWord",
+      "prompt": "САЛО"
+    },
+    {
+      "id": 1,
+      "type": "WordLashWord",
+      "prompt": "ОСЕЛ"
+    },
+    {
+      "id": 2,
+      "type": "WordLashWord",
+      "prompt": "ТРУСИ"
+    },
+    {
+      "id": 3,
+      "type": "WordLashWord",
+      "prompt": "ПЛЯМА"
+    },
+    {
+      "id": 4,
+      "type": "WordLashWord",
+      "prompt": "ВІДРО"
+    },
+    {
+      "id": 5,
+      "type": "WordLashWord",
+      "prompt": "НАСОС"
+    },
+    {
+      "id": 6,
+      "type": "WordLashWord",
+      "prompt": "ЛИЗАТИ"
+    },
+    {
+      "id": 7,
+      "type": "WordLashWord",
+      "prompt": "КАЧКА"
+    },
+    {
+      "id": 8,
+      "type": "WordLashWord",
+      "prompt": "ЦЕНЗУРА"
+    },
+    {
+      "id": 9,
+      "type": "WordLashWord",
+      "prompt": "МОНАШКА"
+    },
+    {
+      "id": 10,
+      "type": "WordLashWord",
+      "prompt": "МІШОК"
+    },
+    {
+      "id": 12,
+      "type": "WordLashWord",
+      "prompt": "БОРОДА"
+    },
+    {
+      "id": 13,
+      "type": "WordLashWord",
+      "prompt": "ЯЙЦЯ"
+    },
+    {
+      "id": 14,
+      "type": "WordLashWord",
+      "prompt": "ХРЮК"
+    },
+    {
+      "id": 15,
+      "type": "WordLashWord",
+      "prompt": "СМЕТАНА"
+    },
+    {
+      "id": 16,
+      "type": "WordLashWord",
+      "prompt": "КУКУРУДЗА"
+    },
+    {
+      "id": 17,
+      "type": "WordLashWord",
+      "prompt": "БУЛОЧКИ"
+    },
+    {
+      "id": 18,
+      "type": "WordLashWord",
+      "prompt": "КАРАСЬ"
+    },
+    {
+      "id": 19,
+      "type": "WordLashWord",
+      "prompt": "ТВЕРК"
+    },
+    {
+      "id": 20,
+      "type": "WordLashWord",
+      "prompt": "УДАР"
+    },
+    {
+      "id": 21,
+      "type": "WordLashWord",
+      "prompt": "КЛОУН"
+    },
+    {
+      "id": 22,
+      "type": "WordLashWord",
+      "prompt": "МАВПА"
+    },
+    {
+      "id": 23,
+      "type": "WordLashWord",
+      "prompt": "ЛЯПАС"
+    },
+    {
+      "id": 24,
+      "type": "WordLashWord",
+      "prompt": "ШУРУП"
+    },
+    {
+      "id": 25,
+      "type": "WordLashWord",
+      "prompt": "ВАННА"
+    },
+    {
+      "id": 26,
+      "type": "WordLashWord",
+      "prompt": "ЩІКА"
+    },
+    {
+      "id": 27,
+      "type": "WordLashWord",
+      "prompt": "СТРУП"
+    },
+    {
+      "id": 28,
+      "type": "WordLashWord",
+      "prompt": "ЧАВК"
+    },
+    {
+      "id": 29,
+      "type": "WordLashWord",
+      "prompt": "ПУК"
+    },
+    {
+      "id": 30,
+      "type": "WordLashWord",
+      "prompt": "ПОМАДКА"
+    },
+    {
+      "id": 31,
+      "type": "WordLashWord",
+      "prompt": "ХЛІБ"
+    },
+    {
+      "id": 32,
+      "type": "WordLashWord",
+      "prompt": "ВИДЕЛКА"
+    },
+    {
+      "id": 34,
+      "type": "WordLashWord",
+      "prompt": "ЗДОБИЧ"
+    },
+    {
+      "id": 35,
+      "type": "WordLashWord",
+      "prompt": "ЖИР"
+    },
+    {
+      "id": 36,
+      "type": "WordLashWord",
+      "prompt": "ГАЗ"
+    },
+    {
+      "id": 37,
+      "type": "WordLashWord",
+      "prompt": "ПРИЩ"
+    },
+    {
+      "id": 38,
+      "type": "WordLashWord",
+      "prompt": "ПЕРУКА"
+    },
+    {
+      "id": 39,
+      "type": "WordLashWord",
+      "prompt": "КАЛЬМАР"
+    },
+    {
+      "id": 41,
+      "type": "WordLashWord",
+      "prompt": "КРЯ"
+    },
+    {
+      "id": 42,
+      "type": "WordLashWord",
+      "prompt": "ХАМ"
+    },
+    {
+      "id": 43,
+      "type": "WordLashWord",
+      "prompt": "СТРУМІНЬ"
+    },
+    {
+      "id": 44,
+      "type": "WordLashWord",
+      "prompt": "ЛАСКА"
+    },
+    {
+      "id": 45,
+      "type": "WordLashWord",
+      "prompt": "ЗУБ"
+    },
+    {
+      "id": 46,
+      "type": "WordLashWord",
+      "prompt": "ВОЛОГА"
+    },
+    {
+      "id": 47,
+      "type": "WordLashWord",
+      "prompt": "БАВОВНА"
+    },
+    {
+      "id": 48,
+      "type": "WordLashWord",
+      "prompt": "ВЕРБА"
+    },
+    {
+      "id": 49,
+      "type": "WordLashWord",
+      "prompt": "СЛИЗЬ"
+    }
+  ],
+  "episodeid": 1
+}

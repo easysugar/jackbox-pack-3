@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "hell",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "I’m telling Lily Tomlin you wrote this.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Назва скасованої серії <i>Уроків тітоньки Сови</i>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "468469_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "468467_0",
+      "n": "PromptAudio",
+      "s": "Назва скасованої серії <i>Уроків тітоньки Сови</i>"
+    }
+  ]
+}

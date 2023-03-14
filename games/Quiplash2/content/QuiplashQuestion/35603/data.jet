@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "you’re adopted|your adopted",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "If only he’d said you were adopted BEFORE you agreed to get up at 4 in the morning.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ваша поїздка на риболовлю з батьком була чудова, поки він не відклав вудку, повернув голову і сказав <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "480092_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "480090_0",
+      "n": "PromptAudio",
+      "s": "Ваша поїздка на риболовлю з батьком була чудова, поки він не відклав вудку, повернув голову і сказав <BLANK>"
+    }
+  ]
+}
