@@ -1,0 +1,74 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "дуже відстійний автомобіль ",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "ваша перша машина",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "автомобіль вашої мрії",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "543629_0",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "543631_0",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "543632_0",
+      "n": "TextTask1"
+    }
+  ]
+}

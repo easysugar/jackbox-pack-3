@@ -1,0 +1,90 @@
+{
+  "rows": 7,
+  "cols": 1,
+  "cellWidth": 682,
+  "cellHeight": 57,
+  "clip": "FakinItSettingsWidget",
+  "items": [
+    {
+      "title": "Гучність",
+      "type": "Range",
+      "clip": "FakinItSliderWidget",
+      "colorSelected": 16777215,
+      "colorUnselected": 0,
+      "width": 1,
+      "source": "Volume",
+      "step": 0.1,
+      "description": "Зробіть гру ГУЧНОЮ або ТИХОЮ."
+    },
+    {
+      "title": "Повноекранний режим",
+      "type": "Toggle",
+      "clip": "FakinItToggleWidget",
+      "colorSelected": 16777215,
+      "colorUnselected": 0,
+      "width": 1,
+      "source": "FullScreen",
+      "description": "Розгорнути гру на увесь екран"
+    },
+    {
+      "title": "Сімейний фільтр",
+      "type": "Toggle",
+      "clip": "FakinItToggleWidget",
+      "colorSelected": 16777215,
+      "colorUnselected": 0,
+      "width": 1,
+      "source": "FakinItFamilyFriendly",
+      "description": "Увімкніть, щоб уникнути найбільш провокаційного, хтивого контенту."
+    },
+    {
+      "title": "Глядачі",
+      "type": "Toggle",
+      "clip": "FakinItToggleWidget",
+      "colorSelected": 16777215,
+      "colorUnselected": 0,
+      "width": 1,
+      "source": "FakinItAudienceOn",
+      "description": "Увімкніть, щоб дозволяти глядачам приєднуватися та впливати на гру."
+    },
+    {
+      "title": "Вимагати Twitch",
+      "type": "Toggle",
+      "clip": "FakinItToggleWidget",
+      "colorSelected": 16777215,
+      "colorUnselected": 0,
+      "width": 1,
+      "source": "FakinItRequireTwitch",
+      "description": "Щоб приєднатися до гри, гравці мають увійти в Twitch. Рекомендовано лише для ігор на стрімах."
+    },
+    {
+      "title": "Ручна цензура",
+      "type": "Toggle",
+      "clip": "FakinItToggleWidget",
+      "colorSelected": 16777215,
+      "colorUnselected": 0,
+      "width": 1,
+      "source": "FakinItCensorable",
+      "description": "Дозволити VIP гравцеві (першому гравцеві) цензурувати відповіді гравців."
+    },
+    {
+      "title": "Починати гру лише з пристрою",
+      "type": "Toggle",
+      "clip": "FakinItToggleWidget",
+      "colorSelected": 16777215,
+      "colorUnselected": 0,
+      "width": 1,
+      "source": "FakinItGamepadStart",
+      "description": "Гра буде запускатися тільки з пристрою, де запущена гра, а не з пристроїв гравців."
+    },
+    {
+      "title": "Дозволити приховувати код кімнати",
+      "type": "Toggle",
+      "clip": "FakinItToggleWidget",
+      "colorSelected": 16777215,
+      "colorUnselected": 0,
+      "width": 1,
+      "source": "FakinItHideRoomCode",
+      "description": "Дозволити приховати код кімнати, щоб гравці не могли приєднатися зарано. Рекомендовано лише для ігор на стрімах."
+    }
+  ]
+}

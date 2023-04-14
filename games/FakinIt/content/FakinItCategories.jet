@@ -1,0 +1,35 @@
+{
+  "episodeid": 0,
+  "content": [
+    {
+      "id": 0,
+      "type": "Hands",
+      "name": "У руках правда",
+      "duration": 3
+    },
+    {
+      "id": 1,
+      "type": "Pointing",
+      "name": "Пальцем у небо",
+      "duration": 3
+    },
+    {
+      "id": 2,
+      "type": "Faces",
+      "name": "Що з обличчям",
+      "duration": 3
+    },
+    {
+      "id": 3,
+      "type": "Counting",
+      "name": "Порахуй на пальцях",
+      "duration": 3
+    },
+    {
+      "id": 4,
+      "type": "Input",
+      "name": "Писав писака",
+      "duration": 90
+    }
+  ]
+}

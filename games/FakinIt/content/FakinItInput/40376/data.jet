@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "країна, яку ви боїтеся відвідати",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "країна, яку ви хочете відвідати",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "країна, яку ви відвідали останнім часом",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "країна в Європі",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "543578_1",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "543582_1",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "543580_0",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "543581_0",
+      "n": "TextTask1"
+    }
+  ]
+}

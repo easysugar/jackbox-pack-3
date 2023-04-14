@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "їжа, яку ви викинули у сміття",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "їжа, за яку варто заплатити багато грошей",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "ваш останній смаколик у житті",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "їжа, від якої вас нудить",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "545885_0",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "545889_0",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "545887_0",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "545888_0",
+      "n": "TextTask1"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard4"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard3"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "прибуткова робота ",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "робота, про яку ви мріяли з дитинства",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "чудова робота, якщо ви хочете отримати керівну посаду ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "небезпечна робота ",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "робота, якої не буде через 100 років ",
+      "n": "TextTaskText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult3"
+    },
+    {
+      "t": "S",
+      "v": "ваша перша робота ",
+      "n": "TextTaskText4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "робота, на якій ваші батьки хотіли б вас бачити",
+      "n": "TextTaskText5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "544163_0",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "544169_0",
+      "n": "TextTask4"
+    },
+    {
+      "t": "A",
+      "v": "544170_0",
+      "n": "TextTask5"
+    },
+    {
+      "t": "A",
+      "v": "544167_0",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "544168_0",
+      "n": "TextTask3"
+    },
+    {
+      "t": "A",
+      "v": "544165_0",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "544166_0",
+      "n": "TextTask1"
+    }
+  ]
+}

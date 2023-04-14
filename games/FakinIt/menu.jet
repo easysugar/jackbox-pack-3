@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ГРАТИ",
+    "action": "doPlayGame",
+    "description": "Створити ігрову кімнату та зіграти",
+    "value": 0
+  },
+  {
+    "title": "ТАБЛИЦЯ ЛІДЕРІВ",
+    "action": "doLeaderboards",
+    "description": "Відстежуйте статистику ваших останніх ігор",
+    "value": 1
+  },
+  {
+    "title": "НАЛАШТУВАННЯ",
+    "action": "doSettings",
+    "description": "Сімейний фільтр, Глядачі тощо",
+    "value": 2
+  },
+  {
+    "title": "НАЗАД ДО ПАКУ",
+    "action": "doBackToPack",
+    "description": "Вийти назад до меню",
+    "value": 3
+  }
+]

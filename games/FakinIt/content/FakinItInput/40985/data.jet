@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "найромантичніший місяць",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "ваш улюблений місяць",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "найкращий місяць для відпустки",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "місяць, який НЕ закінчується на «нь»",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "550201_1",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "550205_0",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "550203_1",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "550204_0",
+      "n": "TextTask1"
+    }
+  ]
+}
