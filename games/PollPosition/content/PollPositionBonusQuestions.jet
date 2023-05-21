@@ -1,0 +1,827 @@
+{
+  "episodeid": 1260,
+  "content": [
+    {
+      "x": false,
+      "id": 35715,
+      "category": "Холодні страви та закуски",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35808,
+      "category": "Страх, яким він є",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35809,
+      "category": "Пластична хірургія",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37059,
+      "category": "Дратівливі фактори",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37030,
+      "category": "Вареники",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39148,
+      "category": "Втрачене кохання",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38187,
+      "category": "Пиріг",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35811,
+      "category": "Марвел",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38052,
+      "category": "Українська комедія",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38049,
+      "category": "Фантастичні світи",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35901,
+      "category": "От такий масаж",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37788,
+      "category": "Мутанти",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36108,
+      "category": "2000 гривень",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39139,
+      "category": "Фанати",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37862,
+      "category": "Саундтреки",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38975,
+      "category": "Самооцінка",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38130,
+      "category": "Торгові центри",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38041,
+      "category": "Фізична культура",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38119,
+      "category": "Кличко",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37153,
+      "category": "Шевченкознавство",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37777,
+      "category": "Тропіки",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 36913,
+      "category": "Зображення себе",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 38617,
+      "category": "Грішники",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38129,
+      "category": "Втрата ваги",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39140,
+      "category": "Країна (У)",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39153,
+      "category": "Сувеніри на пам'ять",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35884,
+      "category": "Декілька значень",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 39141,
+      "category": "Цей сон, цей сон",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38035,
+      "category": "Євробачення",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38118,
+      "category": "Дитяча література",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37936,
+      "category": "Вампіри",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37732,
+      "category": "Застосунки",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37932,
+      "category": "Лихослів'я",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38039,
+      "category": "Перегляд сайтів",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39137,
+      "category": "Престоли",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38116,
+      "category": "Податковий дохід",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38047,
+      "category": "Перегони",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38887,
+      "category": "Гра у Доктора",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38114,
+      "category": "Дитячі слова",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37876,
+      "category": "Сеґа мега драйв",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37796,
+      "category": "Національна кухня",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37825,
+      "category": "Брутальщина",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 39138,
+      "category": "Пристойні пропозиції",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 39143,
+      "category": "Сексуальні музики",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38117,
+      "category": "Кольори",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38879,
+      "category": "Готівка",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37822,
+      "category": "Розкішна їжа",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39154,
+      "category": "Остання вечеря",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37820,
+      "category": "Романтичні комедії",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39149,
+      "category": "Екзотичні домашні тварини",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37923,
+      "category": "Спорт+Їжа",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37829,
+      "category": "Мультяшні собаки",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37183,
+      "category": "Легалізація",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37026,
+      "category": "Ласощі",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37060,
+      "category": "Шкідливі звички",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37017,
+      "category": "Відпустки",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37260,
+      "category": "Розтрощені мрії",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 36005,
+      "category": "Жертвування",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37159,
+      "category": "Тренди",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37311,
+      "category": "Страви з картоплі",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37367,
+      "category": "Канапки",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37164,
+      "category": "Спортсмени-аматори",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37148,
+      "category": "Страшні песики",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37145,
+      "category": "Області України",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35712,
+      "category": "Цей во... Забув",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37446,
+      "category": "Дратівливі знаменитості",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37092,
+      "category": "Дрібні гроші",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35746,
+      "category": "Ехо",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35749,
+      "category": "Йога",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37395,
+      "category": "Музика 90-х",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35753,
+      "category": "Яйця",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35891,
+      "category": "Кліше на робочому місці",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35927,
+      "category": "Супердурники",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36026,
+      "category": "Фонтани",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36028,
+      "category": "Найвеличніший",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37509,
+      "category": "Фрукти",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36086,
+      "category": "Рекламні талісмани",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37440,
+      "category": "Нудний спорт",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36120,
+      "category": "Забобони",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37934,
+      "category": "Школа",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37719,
+      "category": "Музика для цілунків",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37716,
+      "category": "Твоє лице",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36122,
+      "category": "Емблеми",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36125,
+      "category": "Чипси",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36127,
+      "category": "Святий Миколай",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36129,
+      "category": "Веселе ТБ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36134,
+      "category": "Святкові фільми",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36152,
+      "category": "Декор спальні",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37720,
+      "category": "Музична історія",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37731,
+      "category": "Україна має талант",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37642,
+      "category": "Покатульки",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37812,
+      "category": "Довговічність",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37860,
+      "category": "Музичні гурти",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37647,
+      "category": "Морозиво",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37726,
+      "category": "Динозаври",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36162,
+      "category": "Сендлер",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 38124,
+      "category": "Мова",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36167,
+      "category": "Жага до подорожей",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37868,
+      "category": "Міфічні істоти",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37791,
+      "category": "ТВ-шоу",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39136,
+      "category": "Планети",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39144,
+      "category": "Протистояння",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37679,
+      "category": "Цирк",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36190,
+      "category": "Спілкування",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38031,
+      "category": "Погані імена",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37905,
+      "category": "Знамениті Михайли",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37655,
+      "category": "Садочок",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37723,
+      "category": "Мертві люди",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36193,
+      "category": "Європа",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36210,
+      "category": "Декади",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36221,
+      "category": "Ми Бетмен",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36339,
+      "category": "Розриви",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 36343,
+      "category": "Передсмертні бажання",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37612,
+      "category": "Бонди",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36525,
+      "category": "Дармовиси",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38122,
+      "category": "Грубість",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38188,
+      "category": "Фруктовий лід",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36346,
+      "category": "Різдво",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36582,
+      "category": "Закладки",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37635,
+      "category": "Козаки",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36637,
+      "category": "Капітан Джек Спарроу",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36692,
+      "category": "Шахтар-Динамо",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36700,
+      "category": "Суп",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37810,
+      "category": "Вокалістки",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37072,
+      "category": "Вигадані хвороби",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37828,
+      "category": "Весілля",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38126,
+      "category": "Гамерика",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37795,
+      "category": "Настільні ігри",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37856,
+      "category": "Перший поцілунок",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37733,
+      "category": "Негідники",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37792,
+      "category": "Ведучі ток-шоу",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37864,
+      "category": "Студентство",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37592,
+      "category": "Яблука розбрату",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36696,
+      "category": "Свята",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36758,
+      "category": "Дитячі майданчики",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39151,
+      "category": "Томи",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35914,
+      "category": "Спільне ліжко",
+      "type": "open"
+    }
+  ]
+}

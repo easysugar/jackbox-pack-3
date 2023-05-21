@@ -1,0 +1,3173 @@
+{
+  "episodeid": 1255,
+  "content": [
+    {
+      "x": false,
+      "id": 38322,
+      "category": "Футбол",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38269,
+      "category": "Виклик на дім",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38189,
+      "category": "Розмір ложки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38166,
+      "category": "Какао",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38147,
+      "category": "Стаціонари",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38109,
+      "category": "Консерви",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38106,
+      "category": "Поїздки середмістям",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37572,
+      "category": "Бутерброд з ковбасою",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38053,
+      "category": "Кривава Мері",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38050,
+      "category": "Труси поверх костюма",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37344,
+      "category": "Стара мода",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 38048,
+      "category": "Сік",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38043,
+      "category": "Тир",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37158,
+      "category": "Вампіри",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36772,
+      "category": "Укачування",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37142,
+      "category": "Плейлисти",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36741,
+      "category": "Двоярусні ліжка",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36787,
+      "category": "Підлогове покриття",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36774,
+      "category": "Полуденок",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37160,
+      "category": "Ставки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37010,
+      "category": "Згущівка в банці",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37013,
+      "category": "Теревені",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37021,
+      "category": "Псевдонаука",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37027,
+      "category": "Казки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37053,
+      "category": "Прокльони",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36917,
+      "category": "Настільні ігри",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36911,
+      "category": "Прізвиська",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38108,
+      "category": "Кіноприбульці",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 38060,
+      "category": "Труби",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38033,
+      "category": "Автомийка",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38032,
+      "category": "Комахи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38030,
+      "category": "В’язання",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37937,
+      "category": "Романтична музика",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37945,
+      "category": "Анімовані тварини",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37930,
+      "category": "Туга",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37146,
+      "category": "Шорти",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36768,
+      "category": "Правда чи дія",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37151,
+      "category": "Зона 51",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36704,
+      "category": "Телемаркетинг",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37152,
+      "category": "Ложки й виделки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36340,
+      "category": "Гіроскутери",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36322,
+      "category": "Стоянки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36308,
+      "category": "Старе лахміття",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35661,
+      "category": "Вага",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35627,
+      "category": "Зникнення та вбивство",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35625,
+      "category": "Заправки",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35631,
+      "category": "Наукова фантастика",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35633,
+      "category": "Вампіри",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35634,
+      "category": "Великі справи",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35635,
+      "category": "Нічні шкарпетки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35665,
+      "category": "Марафони",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35698,
+      "category": "Ексгібіціонізм",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35692,
+      "category": "Пересип",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35701,
+      "category": "Застилання ліжка",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35700,
+      "category": "Ліфти",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37161,
+      "category": "Списки справ",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36828,
+      "category": "Державний гімн",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36659,
+      "category": "Магніти на холодильник",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36668,
+      "category": "Зубні щітки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37156,
+      "category": "Громадський транспорт",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35738,
+      "category": "Аферисти в сітях",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35764,
+      "category": "Чарівні бажання",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35765,
+      "category": "Чистота знизу догори",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35801,
+      "category": "Стрижки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35905,
+      "category": "Жіноче товариство",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35917,
+      "category": "Волосся на тілі",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35919,
+      "category": "3 за ціною 2",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36014,
+      "category": "Листування",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36701,
+      "category": "Ліфти",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36698,
+      "category": "Інтерв'ю",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36662,
+      "category": "Купальники",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36780,
+      "category": "Крупи",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37155,
+      "category": "Платня за харчування",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36657,
+      "category": "Номери платників податків",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36674,
+      "category": "Бортики",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36653,
+      "category": "Банківські рахунки",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36702,
+      "category": "Довгострокова дружба",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36370,
+      "category": "Фейкові дзвінки",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36742,
+      "category": "Кредитні картки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36215,
+      "category": "Ноги у відпустці",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35629,
+      "category": "Орео",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36716,
+      "category": "Кутикули",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37154,
+      "category": "Ковзани",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 38131,
+      "category": "Імена користувачів",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 38037,
+      "category": "Простір для відпочинку",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38028,
+      "category": "Операційні системи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35704,
+      "category": "Душ",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37224,
+      "category": "Призи",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37225,
+      "category": "Гарлем шейк",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36330,
+      "category": "Вечірки-сюрпризи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36703,
+      "category": "Краватки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36985,
+      "category": "Хащі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36601,
+      "category": "По-англійськи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36281,
+      "category": "Пости про їжу",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36050,
+      "category": "Цькування Siri",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37314,
+      "category": "Любовні листи",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36869,
+      "category": "Клоуни",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36998,
+      "category": "Свист",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35632,
+      "category": "Жуйка",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37230,
+      "category": "Статуї",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36773,
+      "category": "Риб'ячі яйця",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37239,
+      "category": "Підписи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37336,
+      "category": "Шимпанзе",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37515,
+      "category": "Настільний футбол",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35816,
+      "category": "Подорожі у часі",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35807,
+      "category": "Читання",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35915,
+      "category": "Вертіння",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35897,
+      "category": "Піца",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35916,
+      "category": "Гоління",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35922,
+      "category": "Весілля",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35920,
+      "category": "Ікони української рок-музики",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36015,
+      "category": "Нудистські пляжі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35848,
+      "category": "Знайомі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35804,
+      "category": "Шаурма",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35750,
+      "category": "Протести",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35760,
+      "category": "Домашні шкідники",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35802,
+      "category": "Анімація Метта Ґрейнінґа",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35740,
+      "category": "Кредитні картки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36609,
+      "category": "Танок каченят",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36636,
+      "category": "Уроки фортепіано",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36643,
+      "category": "Футболки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36597,
+      "category": "Засоби для волосся",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35924,
+      "category": "Вейпінг",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36010,
+      "category": "Одеколон",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38038,
+      "category": "Сік",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37946,
+      "category": "Пакетики з цукром",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36089,
+      "category": "Постіль",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36092,
+      "category": "Wi-Fi",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36073,
+      "category": "ТРЦ",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36076,
+      "category": "Ресторанні напої",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36065,
+      "category": "Пакет з пакетами",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35963,
+      "category": "Міміка",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35925,
+      "category": "Прохолодні авто",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36007,
+      "category": "Пори року",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36020,
+      "category": "Вибори",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36023,
+      "category": "Сумки-бананки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36024,
+      "category": "Стрижки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36030,
+      "category": "Консервація",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36025,
+      "category": "Побачення",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36037,
+      "category": "Сечовипускання",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36042,
+      "category": "Брехуни",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36044,
+      "category": "Катання на роликах",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36051,
+      "category": "Це ж було вже",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36068,
+      "category": "Легкий сніданок",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36342,
+      "category": "Сховки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35815,
+      "category": "Тринадцята п'ятнадцять",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36077,
+      "category": "Нью-Йорк",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36117,
+      "category": "Чищення зубів",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36121,
+      "category": "Гаррі Поттер",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36126,
+      "category": "Сосиски",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36132,
+      "category": "Хліб",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36130,
+      "category": "Вампіри",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36148,
+      "category": "Джинси",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36151,
+      "category": "Музика ромів",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36160,
+      "category": "Купання",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36158,
+      "category": "Херсонські кавуни",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36156,
+      "category": "Зупинки відпочинку",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36161,
+      "category": "Картопля",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36163,
+      "category": "Спів наживо",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36166,
+      "category": "Фотографування",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36164,
+      "category": "Стоматологія",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36170,
+      "category": "Розкладачки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36174,
+      "category": "Бамперні наліпки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36171,
+      "category": "Реклама",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36176,
+      "category": "Сир",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35747,
+      "category": "Знижки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35710,
+      "category": "Кладовища",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36268,
+      "category": "Слова мудрості",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36180,
+      "category": "Шмарклі",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36181,
+      "category": "Купання голяка",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36189,
+      "category": "Побажання здоров'я",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36183,
+      "category": "Погане кіно",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36184,
+      "category": "Бахіли",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36195,
+      "category": "Колекціонування",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36198,
+      "category": "Дитяча травма",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36201,
+      "category": "Джем чи повидло",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36216,
+      "category": "Татуювання",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36992,
+      "category": "Сидіння",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37089,
+      "category": "Жонглювання",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37091,
+      "category": "Стрибки з парашутом",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37094,
+      "category": "Астрологія",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37096,
+      "category": "Палії",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37097,
+      "category": "Рубання дров",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37098,
+      "category": "Чхання",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37107,
+      "category": "Публічні виступи",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37113,
+      "category": "Друк",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36762,
+      "category": "Не турбувати",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36269,
+      "category": "Щоденники",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36272,
+      "category": "Звичайна застуда",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36271,
+      "category": "Етикетки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36273,
+      "category": "Пішоходи",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36274,
+      "category": "Заборонений секс",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36275,
+      "category": "Довге волосся",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36211,
+      "category": "Жива хвиля",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36227,
+      "category": "Напої",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36229,
+      "category": "Басейни",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36301,
+      "category": "Черги",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36118,
+      "category": "Інтернет-друзі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36257,
+      "category": "Дослідження хустинок",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36259,
+      "category": "Першотравневі жарти",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36261,
+      "category": "Наручний годинник",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36264,
+      "category": "Купання",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36267,
+      "category": "Принадження",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36276,
+      "category": "Контакт зі знаменитістю",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36277,
+      "category": "Виконавці",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36283,
+      "category": "Картопля фрі",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35709,
+      "category": "Овації",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35707,
+      "category": "Сватання",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36634,
+      "category": "Автографи",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35695,
+      "category": "Дверні ручки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36022,
+      "category": "Музика для очікування",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36003,
+      "category": "Фон робочого столу",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35895,
+      "category": "Спойлери",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36004,
+      "category": "Конфіденційні документи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36017,
+      "category": "Супергеройські комікси",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36027,
+      "category": "Старі технології",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36011,
+      "category": "Привиди",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36284,
+      "category": "Приправи",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36290,
+      "category": "Велосипеди",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36291,
+      "category": "Історія пошуку",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36293,
+      "category": "Провітрювання ніг",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36295,
+      "category": "Косплей",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36304,
+      "category": "Печені страви",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36297,
+      "category": "Голубці",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36305,
+      "category": "Феєрверки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36321,
+      "category": "Більярд",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36326,
+      "category": "Гелікоптери",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36344,
+      "category": "Автографи",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36338,
+      "category": "Хащі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36336,
+      "category": "Музиканти",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36333,
+      "category": "Обід із собою",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36332,
+      "category": "Реаліті-конкурси",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36331,
+      "category": "Лотерея",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36329,
+      "category": "Чесна праця",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36327,
+      "category": "Відрижка",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36328,
+      "category": "Капці",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36323,
+      "category": "Босі ноги",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36351,
+      "category": "Картопля",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36347,
+      "category": "Облизні",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36348,
+      "category": "Читальний зал",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36906,
+      "category": "Небажані повідомлення",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37018,
+      "category": "Бампер авто",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36012,
+      "category": "Волонтерство",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37439,
+      "category": "Знамениті оповідачі",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37944,
+      "category": "Пасодобль",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38123,
+      "category": "Детективи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 39155,
+      "category": "Пасажирські сидіння",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36123,
+      "category": "Футбол",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36070,
+      "category": "Блукання дорогами",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36043,
+      "category": "Безалкогольні напої",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36186,
+      "category": "Позиції для сну",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37370,
+      "category": "Сякання",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36212,
+      "category": "Пиво",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37506,
+      "category": "Приладдя",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37661,
+      "category": "Шкільне какання",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36669,
+      "category": "Команда \"Дружба\"",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38154,
+      "category": "Кава",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38134,
+      "category": "Сергії",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 38046,
+      "category": "<i>Країна У</i>",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37437,
+      "category": "Київ проти Львова",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35754,
+      "category": "Збір крові",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37922,
+      "category": "Змагання з поїдання їжі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37858,
+      "category": "Збір пилу",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37855,
+      "category": "Кавʼярні",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35759,
+      "category": "Вішалки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37794,
+      "category": "Списки на вебсайтах",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37657,
+      "category": "Шкільні постановки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37653,
+      "category": "Геппі Міл",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37070,
+      "category": "Емоджі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36341,
+      "category": "Підспівування",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36823,
+      "category": "Автооплата",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37079,
+      "category": "Скрябін",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37893,
+      "category": "Захитування",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37900,
+      "category": "Перукарні",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37851,
+      "category": "Самодіагностика",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37839,
+      "category": "Твіттер",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37857,
+      "category": "Футболки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37869,
+      "category": "Атом",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37874,
+      "category": "Преміум підписки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37870,
+      "category": "Рогатки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35908,
+      "category": "Застосунки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35906,
+      "category": "Логіни",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35928,
+      "category": "Фільми жахів",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35964,
+      "category": "Перші побачення",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35986,
+      "category": "Фентезійні романи",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35992,
+      "category": "Приватні світлини",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37824,
+      "category": "Соус у пляшках",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37819,
+      "category": "Найощадливіші жінки-споживачі",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37799,
+      "category": "Театр",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36764,
+      "category": "Рекомендації",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37778,
+      "category": "Крінжові відео",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36739,
+      "category": "Хвиля з натовпом",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35662,
+      "category": "\"Вподобайки\"",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37071,
+      "category": "Марафон перегляду",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35763,
+      "category": "Монети",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36352,
+      "category": "Збери вдома",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36355,
+      "category": "Льодяники",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36356,
+      "category": "Рекомендації ресторану",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36362,
+      "category": "Манекени",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36365,
+      "category": "Охорона дому",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36375,
+      "category": "Безпритульні тварини",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36650,
+      "category": "Facebook та політика",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36916,
+      "category": "Обстеження стояків",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36694,
+      "category": "Часниковий подих",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36666,
+      "category": "Жіноче взуття",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37747,
+      "category": "Ласощі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36527,
+      "category": "Погана зачіска",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36530,
+      "category": "Нерозмовні умови",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36531,
+      "category": "Святкові цукерки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36538,
+      "category": "Відеоігри",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37335,
+      "category": "Дитячі потяги",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36539,
+      "category": "Збір коштів",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37535,
+      "category": "Сучасні крісла",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36589,
+      "category": "Відео з інтернету",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36354,
+      "category": "Повітряні змії",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36358,
+      "category": "Біде",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36359,
+      "category": "Батути",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36364,
+      "category": "Цілувальники котів",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36369,
+      "category": "Номер абонента",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36372,
+      "category": "Парки розваг",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37548,
+      "category": "Стелажі для спецій",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36526,
+      "category": "Ляльки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36529,
+      "category": "Вчителі",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36566,
+      "category": "Листування",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37307,
+      "category": "Зубні щітки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37312,
+      "category": "Пірсинг на тілі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37313,
+      "category": "Стоматологи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37341,
+      "category": "Крики",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37943,
+      "category": "Участь глядачів",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37538,
+      "category": "Рибний четвер",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37428,
+      "category": "Прасування одягу",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36831,
+      "category": "Подарункові книги",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37315,
+      "category": "Відкривачі листів",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37384,
+      "category": "Телевізійна риболовля",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37329,
+      "category": "Кошенята проти цуценят",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37342,
+      "category": "Настільний теніс",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37338,
+      "category": "Щомісячні підписки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37334,
+      "category": "Монети",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37569,
+      "category": "Привабливі колеги",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37557,
+      "category": "Взуття",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37939,
+      "category": "Сон у поїзді",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37924,
+      "category": "Танці на барі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37401,
+      "category": "Торгові автомати",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37346,
+      "category": "Телевізори у спальні",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37563,
+      "category": "Альона Альона",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37921,
+      "category": "Гарячі кружки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37915,
+      "category": "Кручені подачі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37363,
+      "category": "Кактуси",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37568,
+      "category": "<i>Пропала грамота</i>",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37559,
+      "category": "Дипломи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37901,
+      "category": "Товариські матчі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37897,
+      "category": "Інструменти",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37328,
+      "category": "Доставка їжі",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37519,
+      "category": "Легкі напої",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37399,
+      "category": "Коти в кошиках",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37896,
+      "category": "Чайові",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37894,
+      "category": "Печиво з передбаченням",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37564,
+      "category": "Вода з-під крана",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37859,
+      "category": "Металошукачі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37880,
+      "category": "Хатні тварини",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 35609,
+      "category": "Витирання дупи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35636,
+      "category": "Позаземне життя",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35812,
+      "category": "Попкорн",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35813,
+      "category": "Молоко",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35814,
+      "category": "Очікувана тривалість життя",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37317,
+      "category": "Хрустіння суглобами",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35818,
+      "category": "Друзі-колишні",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35819,
+      "category": "Тританік",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35820,
+      "category": "Зіпсована їжа",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35822,
+      "category": "Кіно",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36097,
+      "category": "Старі телефони",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36099,
+      "category": "Години безсоння",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36102,
+      "category": "Вимикачі світла",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36105,
+      "category": "Сидіння в туалеті",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37854,
+      "category": "Реклама ліків",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37853,
+      "category": "Волосся на тілі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37848,
+      "category": "М'ясо",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37544,
+      "category": "Петиції",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37361,
+      "category": "Ескалатори",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37844,
+      "category": "Копирсання у смітті",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37835,
+      "category": "Паска",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37830,
+      "category": "Чупакабра",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37827,
+      "category": "LEGO",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37813,
+      "category": "Коляски",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37808,
+      "category": "Нова робота",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37803,
+      "category": "Птахи",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37800,
+      "category": "Агроринок",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37793,
+      "category": "Картаті сорочки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37790,
+      "category": "Теледрузі",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37780,
+      "category": "Система сушки",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37776,
+      "category": "Музика 00-х",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37741,
+      "category": "Скажені фільми",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37722,
+      "category": "DVD-диски",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37717,
+      "category": "Книголюби",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37715,
+      "category": "Супермаркети",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37713,
+      "category": "Живіший усіх Живчиків",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37710,
+      "category": "Бібліотеки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37695,
+      "category": "Дрібні крадіжки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37545,
+      "category": "Поховання",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37518,
+      "category": "Мільйонери",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37494,
+      "category": "Квач",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37388,
+      "category": "Планування відпусток",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37692,
+      "category": "Громадянська непокора",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37556,
+      "category": "Кутя",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37676,
+      "category": "Рачки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37675,
+      "category": "Магічні трюки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37668,
+      "category": "Музика на повторі",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37309,
+      "category": "Презервативи",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36350,
+      "category": "Контроль народжуваності на АЗС",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37228,
+      "category": "Французький поцілунок",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37330,
+      "category": "Дорогий алкоголь",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37110,
+      "category": "Середній палець",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37083,
+      "category": "Чат у стилі ню",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36904,
+      "category": "М'які іграшки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37386,
+      "category": "Дартс",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37600,
+      "category": "Короткі штани",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36743,
+      "category": "Гудки",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37554,
+      "category": "<i>Карти Конфлікту</i>",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37498,
+      "category": "Пастилки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37659,
+      "category": "Кокоси",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37435,
+      "category": "Шоколад",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37396,
+      "category": "Біла спина",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37366,
+      "category": "Шкільні ярмарки",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37365,
+      "category": "Дотики до верблюда",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37362,
+      "category": "Лід",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37231,
+      "category": "Перуки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37631,
+      "category": "Суперздібності",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37007,
+      "category": "Хлібні скоринки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37001,
+      "category": "Висадка на Місяць",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36807,
+      "category": "Повітряні кулі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36958,
+      "category": "Сіль",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37008,
+      "category": "Випускний",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36999,
+      "category": "Молоко з пластівцями",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37000,
+      "category": "Рукавиці проти рукавичок",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37082,
+      "category": "Домашні відпустки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37005,
+      "category": "Акваріуми",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37088,
+      "category": "Кільця для пальців ніг",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37141,
+      "category": "Відкривачки",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 37101,
+      "category": "Мерч від артиста",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36993,
+      "category": "Старости",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36909,
+      "category": "Винні пробки",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36866,
+      "category": "Графіті",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37628,
+      "category": "Телевізійні реаліті-шоу",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37656,
+      "category": "Риболовля",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37650,
+      "category": "Подорожі на самоті",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36838,
+      "category": "Різдвяні ялинки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36837,
+      "category": "Погода",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36834,
+      "category": "Фондю",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36867,
+      "category": "Почерк",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37056,
+      "category": "Книги",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36935,
+      "category": "Форсаж",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37069,
+      "category": "Дієтичний детокс",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37080,
+      "category": "Гардероб",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36947,
+      "category": "Шкарпетки з сандалями",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36970,
+      "category": "Пазли",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37638,
+      "category": "Свічки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35743,
+      "category": "Телефонні книги",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35711,
+      "category": "Державні свята",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37054,
+      "category": "Переоблік",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36924,
+      "category": "Розмови із собою",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36954,
+      "category": "Кепки задом наперед",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36918,
+      "category": "Спортзали",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36868,
+      "category": "Водолазки",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36908,
+      "category": "Запасні ключі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36981,
+      "category": "Лотки для льоду",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36835,
+      "category": "Паролі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35611,
+      "category": "Переможці лотереї",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 35623,
+      "category": "Чистка вух",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 35624,
+      "category": "Інтелект",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35628,
+      "category": "Дартс",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 35630,
+      "category": "Спіднє",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 38802,
+      "category": "Поп-література",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36036,
+      "category": "Рікролінг",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36066,
+      "category": "Хтивки у ПП",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36067,
+      "category": "Волосся в їжі",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36071,
+      "category": "Грубі записки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37627,
+      "category": "Язик",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 37347,
+      "category": "Суперздібності",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36072,
+      "category": "Жарти від родичів",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36074,
+      "category": "Закохані клієнти",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36258,
+      "category": "Прибирання будинку",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36230,
+      "category": "Газованка",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36209,
+      "category": "Покупки напідпитку",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36196,
+      "category": "Суперечки в мережі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36188,
+      "category": "Стрижки",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36185,
+      "category": "Мобільна безпека",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36173,
+      "category": "Костюми для домашніх тварин",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36157,
+      "category": "Блукання музеєм",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37801,
+      "category": "YouTube",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37798,
+      "category": "Пошук в інтернеті",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36075,
+      "category": "Застосунки для швидкоїжі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36087,
+      "category": "Перші побачення",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36135,
+      "category": "Сексуальна білизна",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36150,
+      "category": "MP3-плеєри",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36788,
+      "category": "Пісуари",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36289,
+      "category": "Яєчка",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36298,
+      "category": "Робочий секс",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36302,
+      "category": "Фізіологічні рідини",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36303,
+      "category": "Сон під час подорожі",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36528,
+      "category": "Замовлення з авто",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36544,
+      "category": "Образи",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36360,
+      "category": "Мило",
+      "type": "mc"
+    },
+    {
+      "x": true,
+      "id": 36353,
+      "category": "Розмови про секс",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36335,
+      "category": "Побачення",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36325,
+      "category": "Колір аксесуарів",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37068,
+      "category": "Чорна п'ятниця",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37534,
+      "category": "Сувеніри з готелю",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37895,
+      "category": "Підморгування",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37873,
+      "category": "Какао",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37852,
+      "category": "Черепашки-нінджя",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36699,
+      "category": "Цитати з фільмів",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 36642,
+      "category": "Фотобомбінг",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36262,
+      "category": "Щасливі числа",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 36280,
+      "category": "Побачення на весіллі",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36282,
+      "category": "Відеоігри",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36286,
+      "category": "Непристойності",
+      "type": "yn"
+    },
+    {
+      "x": true,
+      "id": 36287,
+      "category": "Вигнання",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37779,
+      "category": "Камери",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37618,
+      "category": "Вікторини на ТБ",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37623,
+      "category": "Подарункові сертифікати",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37607,
+      "category": "Шиї",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37597,
+      "category": "Електрогенератори",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37593,
+      "category": "Випускний",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37594,
+      "category": "Шкідлива їжа",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37589,
+      "category": "Бензопила",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37512,
+      "category": "По батькові",
+      "type": "mc"
+    },
+    {
+      "x": false,
+      "id": 37577,
+      "category": "Конспекти",
+      "type": "yn"
+    },
+    {
+      "x": false,
+      "id": 37575,
+      "category": "Хліб",
+      "type": "yn"
+    }
+  ]
+}
