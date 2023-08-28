@@ -18,9 +18,9 @@
     "value": 2
   },
   {
-    "title": "НАЗАД ДО ПАКУ",
+    "title": "НАЗАД ДО ЗБІРКИ",
     "action": "doBackToPack",
-    "description": "Вийти назад до меню Party Pack",
+    "description": "Вийти назад до меню збірки",
     "value": 3
   }
 ]
